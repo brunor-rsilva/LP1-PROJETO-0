@@ -1,4 +1,16 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
     
+}
+
+header {
+    width: 80%;
+    margin-left: auto; /*para centrar o conteudo */
+    margin-right: auto;
+    padding: 10px;
+    overflow: hidden; 
+
 }
